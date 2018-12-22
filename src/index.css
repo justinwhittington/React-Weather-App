@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/50/a7/8b/50a78b21b11300c8e71ec378ebdbaabf.jpg");
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans,
+    Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.button:hover:enabled {
+  background: linear-gradient(#1a1a1a, #0a0a0a);
+  color: #fff;
+  text-decoration: none;
+}
+
+.button:active {
+  transform: translateY(1px);
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+/* .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }  */
