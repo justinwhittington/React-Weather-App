@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    
+}
+
+.title {
+    display: flex;
+    font-size: 45px;
+    padding-right: 750px;
+    margin: 0;
+}
+
+#headerForecast {
+    display: flex;
+    margin: auto;
+    height: 30px;
+}
+
+#headerInput {
+    margin: auto;
+    height: 30px;
+}
+
+
+
